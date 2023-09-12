@@ -5,7 +5,9 @@ Momento de Retroalimentación: Módulo 2 Implementación de una técnica de apre
 1) Descargar los archivos adjuntos.
 2) Abrir el código en el compilador deseado.
 3) En el código encontrarás la línea 18
-   ("C:/Users/A0174/OneDrive/Documentos/Breast_cancer_data.csv") 
+   
+data = pd.read_csv("C:/Users/A0174/OneDrive/Documentos/breastcancerwinsconsin.csv")
+
 4) Cambiar el path del csv descargado
 5) Correr el código normalmente
 
